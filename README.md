@@ -15,9 +15,11 @@ In classification, we want to minimize the Gini index. In regression, other Loss
 We show here the final tree after pruning, composed of 7 terminal nodes (aka “leaves”).
 
 ![image](https://github.com/william-tiritilli/Regression-Tree/assets/46381506/f6da669b-0765-4845-941c-a5d875c042ab)
+
 The model estimates that a driver with less than 2 years of experience and less than 34 years old, has a probability of claim of 29%.
 
 ![image](https://github.com/william-tiritilli/Regression-Tree/assets/46381506/037d654e-4953-441f-be75-d9deb0325424)
+
 The variable [yrs.licenced] is the “most important” in the sense that it reduces the loss function the most at each split
 
 # Conclusion
