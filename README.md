@@ -2,7 +2,7 @@
 In this repo, we will show an example on estimating the claim frequency using the CART algorithm with R. Before tackling the ensemble methods, let’s set the up the basis explaining how the algorithm works. And first thing first, a real tree looks like this:
 ![Example of real tree](https://github.com/william-tiritilli/Regression-Tree/assets/46381506/b24b829e-bdb7-4499-94ba-d08a22db9ea0)
 
-Hope you got the reference ;-). More explantions below.
+Hope you got the reference ;-). More explantions below. Please check also the pdf.
 
 # Explanation
 In a nutshell, the Classification And Regression Tree algorithm, aka CART, (Breiman, 1984) works by partitioning the feature space into a number of smaller (non-overlapping) regions with similar response values usint a set of splitting rules.
